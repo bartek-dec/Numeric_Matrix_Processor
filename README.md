@@ -11,4 +11,4 @@
 ![matrix](./src/main/resources/matrix.png)
 
 #### 5. Calculate a determinant - this operation calculates the determinant for the provided matrix and displays the result (a single number).
-#### 6. Inverse matrix - this operation finds inverse matrix for the provided matrix and displays it. Provided matrix must be a square matrix.
+#### 6. Inverse matrix - this operation finds inverse matrix for the provided matrix and displays it. Provided matrix must be a square matrix. If the determinant of the provided matrix is equal to 0 than inverse matrix can not be found.
