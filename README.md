@@ -4,11 +4,11 @@
 #### 2. Multiply matrix to a constant - this operation multiplies matrix by a constant number and displays the resulting matrix. Program expects to provide valid matrix (the same requirements as in point #1) and valid constant (some number). If constant is incorrect program will repeat the prompt.
 #### 3. Multiply matrices - this operation multiplies first matrix by the second one. After providing two valid matrices, program checks if number of columns in the first matrix is the same as number of rows in the second matrix. If requirement is met, program displays resulting matrix. Otherwise operation is impossible and error message is displayed.
 #### 4. Transpose matrix - this operation displays submenu
-#### 4.1 Main diagonal - this operations performs matrix transposition relatively main diagonal and displays resulting matrix
-#### 4.2 Side diagonal - this operations performs matrix transposition relatively side diagonal and displays resulting matrix
-#### 4.3 Vertical line - this operations performs matrix transposition by vertical line and displays resulting matrix
-#### 4.4 Horizontal line - this operations performs matrix transposition by horizontal line and displays resulting matrix
+#### 4.1 Main diagonal - this operations performs matrix transposition relatively main diagonal and displays resulting matrix.
+#### 4.2 Side diagonal - this operations performs matrix transposition relatively side diagonal and displays resulting matrix.
+#### 4.3 Vertical line - this operations performs matrix transposition by vertical line and displays resulting matrix.
+#### 4.4 Horizontal line - this operations performs matrix transposition by horizontal line and displays resulting matrix.
 ![matrix](./src/main/resources/matrix.png)
 
-#### 5. Calculate a determinant - this operation calculates the determinant for the provided matrix and displays the result (a single number)
-#### 6. Inverse matrix - this operation finds inverse matrix for the provided matrix and displays it. Provided matrix must be a square matrix
+#### 5. Calculate a determinant - this operation calculates the determinant for the provided matrix and displays the result (a single number).
+#### 6. Inverse matrix - this operation finds inverse matrix for the provided matrix and displays it. Provided matrix must be a square matrix.
